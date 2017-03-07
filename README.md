@@ -1,0 +1,2 @@
+# Django-prj
+ReadMe text
